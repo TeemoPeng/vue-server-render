@@ -49,7 +49,7 @@ server.listen(80, () => {
 npm install -S vue-server-renderer
 ```
 
-```
+```js
 const express = require('express')
 // 获取express实例
 const server = express()
